@@ -1,0 +1,75 @@
+figure{
+  width: 100%;
+  position: relative; z-index: -1;
+  margin-bottom: 75px;
+}
+figure img{width: 100%; height: 450px; object-fit: cover; object-position: center;}
+section{
+  width: 1376px; margin: auto;
+}
+.text{position: absolute; top: 50%; left: 4%; transform: translateY(-20%); color: white;}
+.text h2{font-size: 50px; font-weight: 700; margin-bottom: 10px;}
+.text p{font-size: 25px; margin-bottom: 30px;}
+.text span{font-size: 18px;}
+
+section h1{font-size: 60px; font-weight: 800; text-align: center;}
+/* section01 */
+.section01{ text-align: center; height: 850px;}
+.section01 h1{font-size: 60px; font-weight: 800; transform: translateY(260px);}
+.section01 h3{font-size: 50px; font-weight: 600;transform: translateY(270px);}
+.section01 h3 .sky{color: #64ADD4; font-weight: 600;}
+.section01 h3 .blue{color: #0b488d; font-weight: 600;}
+
+/* section02 */
+.section02{}
+.section02 h1{}
+.section02 h3{font-size: 50px; font-weight: 600; text-align: center;}
+.section02 h3 .sky{color: #64ADD4; font-weight: 600;}
+.section02 h3 .blue{color: #0b488d; font-weight: 600;}
+.wave_wrap{display: flex; gap: 100px; justify-content: center; margin: 150px 0;}
+.wave_card{text-align: center;}
+.wave_card img{}
+.wave_card p{font-size: 30px; font-weight: 600;}
+.wave_card p span{font-size: 50px; font-weight: 700;}
+.wave_card:nth-child(2n-1) p span{color: #0b488d;}
+.wave_card:nth-child(2n) p span{color: #64ADD4;}
+.wave_card p.disc{margin-top: 30px; font-size: 20px; color: #767676; font-weight: 400;}
+/* section03 */
+.section03 h1{margin: 150px 0; margin-top: 400px;}
+.imp_wrap{
+  display: grid;
+  grid-template-columns: 400px 400px;
+  gap: 80px; justify-content: center;
+}
+.imp_card{
+  border: 1px solid #bcbcbc;
+  padding: 30px 40px; border-radius: 20px;
+  transition: .3s;
+}
+.imp_card img{width: 50px;}
+.imp_card h3{font-size: 30px; font-weight: 700; margin-bottom: 10px;}
+.imp_card p{color: #767676;}
+/* hover */
+.imp_card:hover{
+  box-shadow: 0 0 10px gray;
+}
+/* section04 */
+.section04 h1{margin: 150px 0; margin-top: 400px;}
+.fig01{display: flex; justify-content: space-between; align-items: center; margin-bottom: 50px;}
+.fig01 h3{width: 400px;}
+.fig h3{font-size: 30px; font-weight: 700; text-align: center;}
+.fig02{display: flex; justify-content: space-between; align-items: center; margin-bottom: 50px;}
+.fig03{position: relative; margin-bottom: 50px;}
+.fig03 img{width: 100%; object-fit: cover;}
+.fig03 h3{position: absolute; color: white; top: 50%; right: 10%; font-size: 30px; font-weight: 700;}
+.fig04{display: flex; justify-content: space-between; align-items: center; margin-bottom: 50px;}
+.fig04 .img_wrap{width: 900px; height: 600px;}
+.fig04 img{width: 100%; object-position: 0 -100px;}
+.fig04 h3{width: 400px; text-align: center;}
+/* hover */
+.fig .img_wrap{overflow: hidden; border-radius: 20px;}
+.fig03 .img_wrap{border-radius: 30px;}
+.fig img{transition: .3s;}
+.fig img:hover{
+  transform: scale(1.2);
+}

@@ -1,0 +1,39 @@
+@media (max-width:768px){
+  figure{width: 100%;}
+  figure img{height: 350px;}
+  .text{left: 50%; transform: translate(-50%, -30px); text-align: center;}
+  .text h2{font-size: 30px;}
+  .text p{font-size: 16px; font-weight: 400;}
+  .text span{font-size: 14px; font-weight: lighter;}
+  section{width: 100%;}
+  section{width: 90%;}
+  /* section01 */
+  .section01{position: relative; z-index: -1;}
+  .section01 h1{font-size: 35px;}
+  .section01 h3{font-size: 25px; margin-top: 20px;}
+  /* section02 */
+  .section02 h1{font-size: 35px;}
+  .section02 h3{font-size: 25px; margin-top: 20px;}
+  .wave_wrap{flex-direction: column;}
+  .wave_card img{width: 60px;}
+  .wave_card p{font-size: 25px;}
+  .wave_card p span{font-size: 35px;}
+  .wave_card p.disc{font-size: 16px; margin: 10px 0;}
+  /* section03 */
+  .section03 h1{font-size: 35px; margin-bottom: 100px;}
+  .imp_wrap{grid-template-columns: 100%;}
+  .imp_card img{width: 30px; margin-bottom: 10px;}
+  .imp_card h3{font-size: 25px; font-weight: 700; margin-bottom: 10px;}
+  /* section04 */
+  .section04 h1{font-size: 35px; margin-bottom: 35px;}
+  .fig h3{font-size: 20px; font-weight: 600; width: 100%; text-align: center;}
+  .fig .img_wrap{border-radius: 0px;}
+  .fig img:hover{transform: scale(1);}
+  .fig{flex-direction: column;}
+  .fig .img_wrap{width: 100%;}
+  .fig img{width: 100%; height: 200px; object-fit: cover; border-radius: 10px; margin-bottom: 20px; margin-top: 30px;}
+  .fig02{flex-direction: column-reverse;}
+  .fig03{position: inherit;}
+  .fig03 h3{position: inherit; color: black;}
+  .fig04 .img_wrap{height: 100%;}
+}

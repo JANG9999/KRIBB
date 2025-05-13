@@ -1,0 +1,37 @@
+figure{
+  width: 100%;
+  position: relative; z-index: -1;
+  margin-bottom: 75px;
+}
+figure img{width: 100%; height: 450px;object-fit: cover; object-position: center;}
+section{
+  width: 1376px; margin: auto;
+}
+.text{position: absolute; top: 50%; left: 4%; transform: translateY(-20%); color: white;}
+.text h2{font-size: 50px; font-weight: 700; margin-bottom: 10px;}
+.text p{font-size: 25px; margin-bottom: 30px;}
+.text span{font-size: 18px;}
+.table_search{display: flex;}
+.btn_wrap{ display: flex; justify-content: space-between;}
+.btn_wrap .search{}
+.btn_wrap input{width: 287px; height: 35px; border: 1px solid #000000;}
+.btn_wrap input::placeholder{color: #767676; font-size: 15px; padding: 8px;}
+.btn_wrap .search_btn{width: 88px; height: 40px; border: none; background-color: #424242; color: #fff; font-size: 16px; margin: 0 5px;}
+.btn_wrap .btn_more{padding: 10px 15px; border: 1px solid #0b488d; background-color: #fff; color: #0b488d;}
+/* hofer */
+.btn_wrap .btn_more:hover{
+  background-color: #0b488d; border: none;
+  color: white;
+}
+ol{display: flex; justify-content: center; margin-bottom: 40px;}
+ol li{margin: 0 5px;}
+ol li a{width: 35px; height: 35px; display: block; text-align: center; line-height: 35px;}
+ol li a.active{background-color: #0b488d; color: #fff; border-radius: 50%;}
+#table{border-collapse: collapse;width: 100%; margin: 40px 0;}
+th{border-top: 1px solid #0b488d; border-bottom: 1px solid #d2d2d2;
+padding: 15px 0; text-align: center; color: #0b488d; font-size: 16px;}
+td:nth-child(1){text-align: center;}
+td:nth-child(2){text-align: center;}
+td:nth-child(4){text-align: center;}
+td:nth-child(5){text-align: center;}
+td{padding: 10px 0; border-bottom: 1px solid #d2d2d2; color: #525252;}
