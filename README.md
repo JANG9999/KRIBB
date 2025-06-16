@@ -86,6 +86,6 @@ SNS와 팝업은 스와이퍼 형식으로 구현되어 있으며 퀵메뉴 오�
 ## 🔗 링크
 - [리뉴얼 작업 피그마 주소](https://www.figma.com/design/iQvwuAaK7sTuTeWObNZNQd/%EA%B3%B5%EA%B3%B5%EA%B8%B0%EA%B4%80%EB%A6%AC%EB%89%B4%EC%96%BC_%EC%9E%A5%EC%84%9C%EC%97%B0?node-id=0-1&t=8ECRahjL1IUUwej7-1)
 
-# AOMG 리뉴얼 사이트
-- [AOMG 기존 사이트](https://www.kribb.re.kr/kor/main/main.jsp)
-- [AOMG 리뉴얼](https://jang9999.github.io/portfolio-KRIBB/index.html)
+# KRIBB 리뉴얼 사이트
+- [KRIBB 기존 사이트](https://www.kribb.re.kr/kor/main/main.jsp)
+- [KRIBB 리뉴얼](https://jang9999.github.io/portfolio-KRIBB/index.html)
