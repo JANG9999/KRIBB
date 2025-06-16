@@ -24,7 +24,7 @@ KRIBB(한국생명공학연구원, Korea Research Institute of Bioscience and Bi
 산업 발전과 국민 건강 증진에 기여하는 것을 목표로 하고 있습니다.
 <br><br><br><br>
 
-## 📝 메인페이지지
+## ✏️ 메인페이지지
 
 ### Header
 ![Image](https://github.com/user-attachments/assets/916480da-2d66-4852-b7cb-d11c6b7a357f)
