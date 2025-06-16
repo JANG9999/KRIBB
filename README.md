@@ -4,15 +4,15 @@
 <h2 align="center">KRIGG 리뉴얼</h2>
 <br><br>
 
-## 작업자
+## 👩‍💻작업자
 장서연
 <br><br>
 
-## 제작기간 :(5일)
+## 📅 제작기간 :(5일)
 2025.04~2025.05
 <br><br>
 
-## 페이지 개수
+## 📎 페이지 개수
 메인페이지 + 서브페이지 2개
 <br><br>
 
@@ -24,7 +24,7 @@ KRIBB(한국생명공학연구원, Korea Research Institute of Bioscience and Bi
 산업 발전과 국민 건강 증진에 기여하는 것을 목표로 하고 있습니다.
 <br><br><br><br>
 
-## 📝 페이지 구성
+## 📝 메인페이지지
 
 ### Header
 ![Image](https://github.com/user-attachments/assets/916480da-2d66-4852-b7cb-d11c6b7a357f)
@@ -46,16 +46,7 @@ Footer에 각 분원 사이트 링크를 추가해 사용자가 쉽게 해당 �
 ## 메인 페이지 
 
 ### main 메인 
-![Image](https://github.com/user-attachments/assets/916480da-2d66-4852-b7cb-d11c6b7a357f)
-<br><br><br>
-회사를 소개하는 문구와 관련 사진을 넣었습니다.
-<br><br>
-### section1  뉴스
-![Image](https://github.com/user-attachments/assets/9d966fd2-0d1c-44a3-bd57-e727bbef3af4)
-<br><br><br>
-회사에 대한 소식을 스와이퍼 형식으로 보여줍니다.
-<br><br>
-### section2 공지사
+![Image](https://github.com/user-attachments/assets/916480da-2d66-4852-항
 ![Image](https://github.com/user-attachments/assets/02865a6a-d34d-4b01-b267-17358236b8c1)
 <br><br><br>
 공지사항, 채용공고, 입찰공고를 한눈에 확인할 수 있으며 해당 영역을 클릭하면 옆으로 내용을 펼쳐볼 수 있습니다.
@@ -78,7 +69,7 @@ KRIBB와 관련된 언론 보도를 카드 형태로 보여줍니다.
 SNS와 팝업은 스와이퍼 형식으로 구현되어 있으며 퀵메뉴 오른쪽에 위치한 메뉴를 클릭하면 해당하는 내용이 표시됩니다.
 <br><br>
 
-## 서브페이지
+## 📄 서브페이지
 ### 회사 비전
 ![Image](https://github.com/user-attachments/assets/45349648-a66c-468b-be76-85d58d5364a9)
 ![Image](https://github.com/user-attachments/assets/be7f5e05-1e89-4476-98fe-bbb0f19bb0ba)
