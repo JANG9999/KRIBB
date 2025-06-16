@@ -1,7 +1,8 @@
+<div align="center">
+ <img src="https://github.com/user-attachments/assets/38517d61-e12a-4967-b11f-d1ed529063b4" alt="Image" width="300"/>
+</div>
 <h2 align="center">KRIGG 리뉴얼</h2>
 <br><br>
-![Image](https://github.com/user-attachments/assets/38517d61-e12a-4967-b11f-d1ed529063b4)
-
 
 ## 작업자
 장서연
