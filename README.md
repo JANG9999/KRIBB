@@ -31,8 +31,8 @@ KRIBB(한국생명공학연구원, Korea Research Institute of Bioscience and Bi
 <br><br><br>
 메인 페이지와 자연스럽게 어우러지도록 헤더를 투명하게 설정했습니다.
 <br><br><br>
+![Image](https://github.com/user-attachments/assets/7c235c70-706d-47f1-b37c-c40045a89453)
 ![image](https://github.com/user-attachments/assets/9d940968-3429-4338-bf79-25f5647acf5e)
-![Image](https://github.com/user-attachments/assets/55cb5c2e-1b0a-42d1-afa5-7e04560eb44c)
 <br><br><br>
 헤더에 마우스를 올리면 흰색으로 바뀌며, 클릭하면 세부 메뉴가 나타납니다.
 
