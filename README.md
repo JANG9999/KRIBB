@@ -16,7 +16,7 @@
 메인페이지 + 서브페이지 2개
 <br><br>
 
-## KRIBB에 대해
+## ❓ KRIBB에 대해
 
 KRIBB(한국생명공학연구원, Korea Research Institute of Bioscience and Biotechnology)는
 생명과학과 바이오 기술 연구를 전문으로 하는 한국의 정부출연 연구기관입니다.
