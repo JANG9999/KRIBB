@@ -46,7 +46,7 @@ Footer에 각 분원 사이트 링크를 추가해 사용자가 쉽게 해당 �
 ## 메인 페이지 
 
 ### main 메인 
-![Image](https://github.com/user-attachments/assets/916480da-2d66-4852-항
+![Image](https://github.com/user-attachments/assets/916480da-2d66-4852-b7cb-d11c6b7a357f)
 ![Image](https://github.com/user-attachments/assets/02865a6a-d34d-4b01-b267-17358236b8c1)
 <br><br><br>
 공지사항, 채용공고, 입찰공고를 한눈에 확인할 수 있으며 해당 영역을 클릭하면 옆으로 내용을 펼쳐볼 수 있습니다.
