@@ -88,4 +88,4 @@ SNS와 팝업은 스와이퍼 형식으로 구현되어 있으며 퀵메뉴 오�
 
 # KRIBB 리뉴얼 사이트
 - [KRIBB 기존 사이트](https://www.kribb.re.kr/kor/main/main.jsp)
-- [KRIBB 리뉴얼](https://jang9999.github.io/portfolio-KRIBB/index.html)
+- [KRIBB 리뉴얼](https://jang9999.github.io/KRIBB/)
